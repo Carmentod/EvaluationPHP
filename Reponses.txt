@@ -34,5 +34,6 @@ vrai || faux = vrai;
 785 % 4 = 1;
  
  
+Une route se divise en deux, a gauche, il y a Disneyland, a droite, je vais au grand magasin. La personne qui empruntera cette route, au dela de sa volonte, une entrée a disney coute 50 euros, il ne pourra donc y aller que si il a plus d'argent que ca. 
 
-
+Si j'ai plus de 50 euros je vais a Gauche, si non je vais a droite.
