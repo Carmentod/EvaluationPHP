@@ -1,0 +1,38 @@
+Reponses
+
+Dans une boucle for, la variable utilisee comme compteur est i est-ce que je 
+peux changer son nom ? Pourquoi ? 
+
+Peut-on mettre une boucle for dans les parentheses d'une boucle while ? 
+Pourquoi ? 
+
+Qu'est-ce que PHP et a quoi sert-il dans le developpement web ? 
+Est un language de programation (hipertext preprocessor) utilise pour realise des sites web et develope ensuite pour d'autres choses plus complexe, comme les jeux.
+
+
+Dans un programme, est-ce que je peux mettre un if dans les accolades d'un 
+autre if ? Pourquoi ? 
+Oui, parce que on peut enbriquer les if pour des situation complexes.
+
+Quand serait-il approprie d'utiliser une structure switch plutot qu'une serie de 
+structures if ? 
+Dans le cas ou on a une situation a choix multiples, ou plusiers scenario, comme pour le cas des jours de la semaine, ou l'utilisateur introduit une cifre et le program retourne le nom du jour de la semaine.
+
+Est-ce que je peux coder mes instructions dans l'ordre que je veux dans mon 
+script ? Pourquoi ? 
+Non, parce que le premier instructions sont ecrases par les suivantes.
+
+Quel operateur est utilise pour concatener des chaines de caracteres en PHP ? 
+On utilise le point ".";
+
+vrai || faux = vrai;
+
+!vrai || faux || faux || faux || faux || vrai = vrai
+
+45 % 5 = 0;
+
+785 % 4 = 1;
+ 
+ 
+
+
