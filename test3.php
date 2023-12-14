@@ -4,14 +4,14 @@ $option = fgets(STDIN);
 
     if ($option == 1) {
         while ($start = 100){
-        echo $start >= 0;
-        $start-2;
+        echo "$start" >= 0 . "\n";
+        $start -2;
         }
     }
     elseif ($option == 2) {
     while ($start = 100) {
     echo $start >= 0 . "\n";
-    $start --++;
+    $start --;
     sleep (1);
     }
     }
